@@ -1,3 +1,4 @@
+// Q.2 write a java program to break an integer into a sequence of individual digits.
 package JavaProgram;
 import java.util.*;
 
