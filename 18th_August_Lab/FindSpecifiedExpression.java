@@ -20,7 +20,7 @@ public class FindSpecifiedExpression {
 		System.out.println("("+a+"+"+b+")/"+x+" = "+((a+b)/x));//Exp
 		System.out.println(c+"*"+d+"="+(c*d));//Exp
 		System.out.println(d1+"&&"+d2+"="+(d1&&d2));//Exp
-    	System.out.println(e1+"&&"+e2+"="+(e1&&e2));//Exp
+    	        System.out.println(e1+"&&"+e2+"="+(e1&&e2));//Exp
 		System.out.println("(("+f1+"&&"+f2+") || ("+f3+"&&"+f4+")) = "+((f1&&f2)||(f3&&f4)));//Exp
 		System.out.println("(("+g1+"||"+g2+") && ("+g3+"||"+g4+")) = "+((g1||g2)&&(g3||g4)));//Exp
 
