@@ -30,7 +30,7 @@ public class Mycalculator {
 		int n = sc.nextInt();
 //		creating AdvancedArithmetic object
 		AdvancedArithmetic aa = new AdvancedArithmetic();
-//		creating sum va
+//		creating sum value and call method dinisor_sum.
 		int sum = aa.divisor_sum( n);
 		System.out.println("The result is :"+sum);
 		
