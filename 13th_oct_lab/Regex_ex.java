@@ -6,9 +6,9 @@ import java.util.regex.*;
 public class Regex_ex {
 
 	public static void main(String[] args) {
-		System.out.println(result("000.12.12.034"));//case1
-		System.out.println(result("121.234.12.12"));//case2
-		System.out.println(result("000.12.234.23.23"));//case3
+		System.out.println(result("000.12.12.034"));//case 1
+		System.out.println(result("121.234.12.12"));//case 2
+		System.out.println(result("000.12.234.23.23"));//case 3
 		System.out.println(result("i.am.not.an.ip"));//case4
 	}
 		public static boolean result(String ip) {
