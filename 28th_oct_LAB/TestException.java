@@ -1,4 +1,4 @@
-/*Problem code 3:
+/*Problem code 2:
 Take two numbers x and y. Throw the exception if the two numbers are negative else print
 the
 Product of x and y.
@@ -11,7 +11,7 @@ java.lang.Exception: x and y should not be zero.*/
 package LAB;
 import java.util.*;
 // main class
-public class TestException {
+public class Problem2 {
 // main method
 	public static void main(String[] args) {
 //		scanner class
