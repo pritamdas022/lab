@@ -30,7 +30,7 @@ class test1 extends Thread{
 	}
 }
 // main class
-public class ThreadTest {
+public class Problem1 {
 // main method
 	public static void main(String[] args) {
 //		creating object 1
