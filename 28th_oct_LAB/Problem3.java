@@ -1,5 +1,4 @@
-/*Problem code 3
-  write a method called addTwoPositive that takes two int parameters, and if either value is not positive, throw an ArithmeticException,
+/*write a method called addTwoPositive that takes two int parameters, and if either value is not positive, throw an ArithmeticException,
  * passing the string "Non-positive integer sent".to the constructor of the exception.if the the values are both positive,
  * then return the sum of them*/
 package LAB;
