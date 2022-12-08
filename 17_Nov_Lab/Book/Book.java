@@ -1,4 +1,4 @@
-package LAB;
+package com.Book;
 
 import java.util.ArrayList;
 import java.util.Scanner;
