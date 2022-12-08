@@ -4,7 +4,7 @@ package LAB;
 import java.util.ArrayList;
 import java.util.List;
 // main class
-public class Problem_Statement3 {
+public class Problem_Statement2 {
 // main method
 	public static void main(String[] args) {
 //		try catch block
