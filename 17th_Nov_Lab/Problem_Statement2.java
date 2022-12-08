@@ -14,7 +14,7 @@ package LAB;
 
 import java.util.ArrayList;
 // main class
-public class Problem_Statement2 {
+public class Problem_Statement1 {
 //	creating array list 1
 private ArrayList<Integer> list1 = new ArrayList<Integer>();
 //	storeEvenNumbers method
