@@ -3,7 +3,7 @@ package com.Bookutil;
 import java.util.Scanner;
 
 public class BookUtil {
-
+// main method
 	public static void main(String[] args) {
 		//instantiating BookStore object
 		BookStore obj = new BookStore();
