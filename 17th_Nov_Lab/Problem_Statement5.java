@@ -3,7 +3,7 @@ package LAB;
 
 import java.util.LinkedList;
 // main class
-public class Problem_Statement5 {
+public class Problem_Statement4 {
 // main method
 	public static void main(String[] args) {
 //		creating array list
