@@ -1,4 +1,4 @@
-package LAB;
+package com.Bookutil;
 
 import java.util.Scanner;
 
