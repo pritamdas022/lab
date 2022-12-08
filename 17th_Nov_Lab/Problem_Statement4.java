@@ -4,7 +4,7 @@ package LAB;
 import java.util.ArrayList;
 import java.util.Arrays;
 // main class
-public class Problem_Statement4 {
+public class Problem_Statement3 {
 // main method
 	public static void main(String[] args) {
 //		creating first array list
